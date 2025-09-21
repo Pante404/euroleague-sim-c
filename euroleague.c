@@ -92,7 +92,7 @@ int main(void)
     char out_name[LENGTH], final4_country[LENGTH];
     int teams = 0;
 
-    fp = fopen("teams1.txt", "r");
+    fp = fopen("teams.txt", "r");
     if (!fp) { printf("Error opening teams1.txt\n"); return 1; }
 
     printf("Enter output file name: ");
