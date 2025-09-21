@@ -35,4 +35,4 @@ Input Format
 
     Each line = one team, format:
 
-    Team_Name Country HomeStrength AwayStrengtheuroleague-sim-c
+    Team_Name Country HomeStrength AwayStrength
