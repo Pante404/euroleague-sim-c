@@ -23,11 +23,11 @@ Features
 
 Tournament Format
 
-    Round 1 (League Stage): all teams play each other
+    Round 1: all teams play each other
 
     Round 2 (Top 8 Knockouts): seeded matchups (0–7, 1–6, 2–5, 3–4)
 
-    Final Four: semifinals & final ranking
+    Final 4: semifinals & final ranking
 
 Input Format
 
